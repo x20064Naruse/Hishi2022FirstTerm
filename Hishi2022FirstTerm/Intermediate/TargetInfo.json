@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Hishi2022FirstTerm",
+			"Path": "D:\\ue4_project\\Hishi2022FirstTerm\\Hishi2022FirstTerm\\Source\\Hishi2022FirstTerm.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Hishi2022FirstTermEditor",
+			"Path": "D:\\ue4_project\\Hishi2022FirstTerm\\Hishi2022FirstTerm\\Source\\Hishi2022FirstTermEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
