@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue4_project\\hishi2022firstterm\\hishi2022firstterm\\intermediate\\build\\win64\\unrealeditor\\inc\\hishi2022firstterm\\runaniminstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue4_project\\hishi2022firstterm\\hishi2022firstterm\\intermediate\\build\\win64\\hishi2022firsttermeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue4_project\\hishi2022firstterm\\hishi2022firstterm\\intermediate\\build\\win64\\unrealeditor\\development\\hishi2022firstterm\\definitions.hishi2022firstterm.h",
+            "d:\\ue4_project\\hishi2022firstterm\\hishi2022firstterm\\source\\hishi2022firstterm\\runaniminstance.h",
+            "d:\\ue4_project\\hishi2022firstterm\\hishi2022firstterm\\intermediate\\build\\win64\\unrealeditor\\inc\\hishi2022firstterm\\runaniminstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

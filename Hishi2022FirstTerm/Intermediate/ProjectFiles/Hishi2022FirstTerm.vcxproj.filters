@@ -23,6 +23,12 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
     <Filter Include="Source\Hishi2022FirstTerm">
       <UniqueIdentifier>{85964D29-1EE6-3FAC-ACD4-00CF887A55D4}</UniqueIdentifier>
     </Filter>
@@ -39,6 +45,12 @@
       <Filter>Source\Hishi2022FirstTerm</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Hishi2022FirstTerm\Hishi2022FirstTermGameModeBase.h">
+      <Filter>Source\Hishi2022FirstTerm</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Hishi2022FirstTerm\RunAnimInstance.cpp">
+      <Filter>Source\Hishi2022FirstTerm</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Hishi2022FirstTerm\RunAnimInstance.h">
       <Filter>Source\Hishi2022FirstTerm</Filter>
     </ClInclude>
   </ItemGroup>

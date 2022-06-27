@@ -708,3 +708,285 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.27-15.05.00:748][  0]LogAssetRegistry: Asset discovery search completed in 34.8207 seconds
 [2022.06.27-15.05.00:767][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.06.27-15.05.00:768][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.27-15.06.04:284][428]LogViewport: Scene viewport resized to 1014x376, mode Windowed.
+[2022.06.27-15.06.04:703][428]LogViewport: Scene viewport resized to 753x607, mode Windowed.
+[2022.06.27-15.06.27:186][594]LogDerivedDataCache: C:/Users/yoy11/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.908 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.27-15.07.59:819][766]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.27-15.07.59:994][766]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.27-15.08.00:745][786]LogSlate: Took 0.249939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.27-15.08.55:230][757]Running D:/games/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="D:/ue4_project/Hishi2022FirstTerm/Hishi2022FirstTerm/Hishi2022FirstTerm.uproject" -game -rocket -progress
+[2022.06.27-15.08.57:195][757]Log file: C:\Users\yoy11\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2022.06.27-15.08.57:296][757]
+[2022.06.27-15.08.57:296][757]Some Platforms were skipped due to invalid SDK setup: Android, Linux, LinuxArm64.
+[2022.06.27-15.08.57:296][757]See the log file for detailed information
+[2022.06.27-15.08.57:296][757]
+[2022.06.27-15.08.57:296][757]Discovering modules, targets and source code for project...
+[2022.06.27-15.08.59:924][757]Binding IntelliSense data...
+[2022.06.27-15.09.04:896][757]Binding IntelliSense data... 100%
+[2022.06.27-15.09.04:896][757]Writing project files...
+[2022.06.27-15.09.07:851][757]Writing project files... 100%
+[2022.06.27-15.09.07:966][757]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.06.27-15.09.07:971][757]LogSlate: Window 'C++ クラスを追加' being destroyed
+[2022.06.27-15.12.52:668][323]LogLiveCoding: Display:    ライブラリ D:\ue4_project\Hishi2022FirstTerm\Hishi2022FirstTerm\Binaries\Win64\UnrealEditor-Hishi2022FirstTerm.patch_0.lib とオブジェクト D:\ue4_project\Hishi2022FirstTerm\Hishi2022FirstTerm\Binaries\Win64\UnrealEditor-Hishi2022FirstTerm.patch_0.exp を作成中
+[2022.06.27-15.12.52:827][323]LogClass: /Script/Hishi2022FirstTerm Reload.
+[2022.06.27-15.12.52:858][323]LogClass: Could not find existing class RunAnimInstance in package /Script/Hishi2022FirstTerm for reload, assuming new or modified class
+[2022.06.27-15.12.53:405][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.27-15.12.53:434][324]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 1 class unchanged
+[2022.06.27-15.12.53:434][324]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2022.06.27-15.41.14:675][561]LogVSAccessor: Warning: Couldn't open file 'D:/ue4_project/Hishi2022FirstTerm/Hishi2022FirstTerm/Source/Hishi2022FirstTerm/RunAnimInstance.h'.
+[2022.06.27-15.41.14:706][561]LogVSAccessor: Warning: Couldn't open file 'D:/ue4_project/Hishi2022FirstTerm/Hishi2022FirstTerm/Source/Hishi2022FirstTerm/RunAnimInstance.cpp'.
+[2022.06.27-15.41.14:706][561]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.06.27-15.41.14:714][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:714][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:714][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:714][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:714][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:714][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:714][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:715][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:716][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:717][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:718][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:718][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:718][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:718][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:718][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:718][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:718][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:718][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:719][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:719][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:719][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:719][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:719][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:719][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:720][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:720][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:720][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:720][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:720][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:720][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:720][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:720][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:721][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:721][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:721][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:721][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:721][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:721][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:721][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:721][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:722][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:722][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:722][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:722][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:722][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:722][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:722][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:722][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:722][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:723][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:723][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:723][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:723][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:723][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:723][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:723][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:723][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:723][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:723][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:724][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:724][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:724][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:724][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:724][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:724][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:724][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:724][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:724][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:725][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:725][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:725][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:725][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:725][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:725][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:734][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:758][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:774][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:785][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:789][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.41.14:793][561]LogVSAccessor: Warning: Couldn't access module table
+[2022.06.27-15.44.39:509][166]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.27-15.44.50:283][166]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.27-15.46.31:143][166]LogSlate: Window 'アニメーションBPを作成' being destroyed
+[2022.06.27-15.47.47:726][484]LogSlate: Window 'アニメーションBPを作成' being destroyed
+[2022.06.27-15.47.47:808][484]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2022.06.27-15.47.47:829][484]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2022.06.27-15.47.47:879][486]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2022.06.27-15.48.04:745][ 72]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAABAnimBlueprint
+[2022.06.27-15.48.05:469][ 72]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2022.06.27-15.48.05:838][ 74]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/_Game/Animation/NewAABAnimBlueprint.NewAABAnimBlueprint
+[2022.06.27-15.48.05:872][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.27-15.48.06:238][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.27-15.48.06:684][ 74]LogStaticMesh: Display: スタティック メッシュの準備ができるのを待ってます。0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh)…
+[2022.06.27-15.48.26:383][ 74]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.06.27-15.48.26:383][ 74]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [12485ms] waiting for h/w. InstanceID=1
+[2022.06.27-15.48.26:383][ 74]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.042244s
+[2022.06.27-15.48.27:431][ 74]LogBlueprintEditor: Perf: 19.7 total seconds to load all 6 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.06.27-15.48.27:431][ 74]LogBlueprintEditor: Perf: 18.7 seconds loading: /Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib
+[2022.06.27-15.48.27:431][ 74]LogBlueprintEditor: Perf: 0.4 seconds loading: /Engine/EditorBlueprintResources/StandardMacros
+[2022.06.27-15.48.27:431][ 74]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2022.06.27-15.48.33:493][ 74]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.27-15.48.55:797][ 74]LogStats: FPlatformStackWalk::StackWalkAndDump - 22.304 s
+[2022.06.27-15.48.55:797][ 74]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.27-15.48.55:797][ 74]LogOutputDevice: Error: 
+[2022.06.27-15.48.55:797][ 74]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 840]
+[2022.06.27-15.48.55:797][ 74]LogOutputDevice: Error: Type mismatch: Expected NewAABAnimBlueprint_C, Found AnimPreviewInstance
+[2022.06.27-15.48.55:797][ 74]LogOutputDevice: Error: Stack: 
+[2022.06.27-15.48.55:797][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef5a3fab4 UnrealEditor-Engine.dll!UBlueprint::SetObjectBeingDebugged() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp:836]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffeb39e23c1 UnrealEditor-AnimationBlueprintEditor.dll!FAnimationBlueprintEditor::InitAnimationBlueprintEditor() [D:\build\++UE5\Sync\Engine\Source\Editor\AnimationBlueprintEditor\Private\AnimationBlueprintEditor.cpp:381]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffeb39bad9f UnrealEditor-AnimationBlueprintEditor.dll!FAnimationBlueprintEditorModule::CreateAnimationBlueprintEditor() [D:\build\++UE5\Sync\Engine\Source\Editor\AnimationBlueprintEditor\Private\AnimationBlueprintEditorModule.cpp:68]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffed4553142 UnrealEditor-AssetTools.dll!FAssetTypeActions_AnimBlueprint::OpenAssetEditor() [D:\build\++UE5\Sync\Engine\Source\Developer\AssetTools\Private\AssetTypeActions\AssetTypeActions_AnimBlueprint.cpp:219]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffee58ebb33 UnrealEditor-UnrealEd.dll!UAssetEditorSubsystem::OpenEditorForAsset() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Subsystems\AssetEditorSubsystem.cpp:377]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffee58ec3a9 UnrealEditor-UnrealEd.dll!UAssetEditorSubsystem::OpenEditorForAssets_Advanced() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Subsystems\AssetEditorSubsystem.cpp:451]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffee58ec13a UnrealEditor-UnrealEd.dll!UAssetEditorSubsystem::OpenEditorForAssets() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Subsystems\AssetEditorSubsystem.cpp:567]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffeb4f20805 UnrealEditor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::EditOrPreviewAssetFileItems() [D:\build\++UE5\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:270]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffeb4f20a60 UnrealEditor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::EditOrPreviewItems() [D:\build\++UE5\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:290]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffeb4f09aff UnrealEditor-ContentBrowserAssetDataSource.dll!UContentBrowserAssetDataSource::BulkEditItems() [D:\build\++UE5\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataSource.cpp:1228]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffed4e120f0 UnrealEditor-ContentBrowser.dll!SContentBrowser::OnItemsActivated() [D:\build\++UE5\Sync\Engine\Source\Editor\ContentBrowser\Private\SContentBrowser.cpp:2680]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffed4dcb010 UnrealEditor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SContentBrowser,1,void __cdecl(TArrayView<FContentBrowserItem const ,int>,enum EAssetTypeActivationMethod::Type),FDefaultDelegateUserPolicy>::Execute() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:290]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffed4e144db UnrealEditor-ContentBrowser.dll!SAssetView::OnListMouseButtonDoubleClick() [D:\build\++UE5\Sync\Engine\Source\Editor\ContentBrowser\Private\SAssetView.cpp:3658]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffed4dd2c36 UnrealEditor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SAssetView,1,void __cdecl(TSharedPtr<FAssetViewItem,1>),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffed4d58802 UnrealEditor-ContentBrowser.dll!TDelegate<void __cdecl(TSharedPtr<FAssetViewItem,1>),FDefaultDelegateUserPolicy>::ExecuteIfBound<void,0>() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:607]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffed4e2767d UnrealEditor-ContentBrowser.dll!SListView<TSharedPtr<FAssetViewItem,1> >::Private_OnItemDoubleClicked() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Public\Widgets\Views\SListView.h:1087]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffed4e148a2 UnrealEditor-ContentBrowser.dll!STableRow<TSharedPtr<FAssetViewItem,1> >::OnMouseButtonDoubleClick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Public\Widgets\Views\STableRow.h:398]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffefbc9601e UnrealEditor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_be18c20258355610e1a03a230227eebb> >() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:405]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffefbd0e866 UnrealEditor-Slate.dll!FSlateApplication::RoutePointerDoubleClickEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5420]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffefbcf8249 UnrealEditor-Slate.dll!FSlateApplication::ProcessMouseButtonDoubleClickEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5405]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffefbcecea1 UnrealEditor-Slate.dll!FSlateApplication::OnMouseDoubleClick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5368]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff0383a8f5 UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2214]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff03829247 UnrealEditor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2699]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff0383ce51 UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1078]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff038249a7 UnrealEditor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:916]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff5570e858 USER32.dll!UnknownFunction []
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff5570e4ee USER32.dll!UnknownFunction []
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffea77c7e59 InkObj.dll!UnknownFunction []
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff41cf1028 atlthunk.dll!UnknownFunction []
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff5570e858 USER32.dll!UnknownFunction []
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff5570e299 USER32.dll!UnknownFunction []
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff0383e148 UnrealEditor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:138]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff79d067114 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5139]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff79d080d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff79d080e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff79d083c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff79d095564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff79d098736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff54917034 KERNEL32.DLL!UnknownFunction []
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff561a2651 ntdll.dll!UnknownFunction []
+[2022.06.27-15.48.55:798][ 74]LogOutputDevice: Error: 
+[2022.06.27-15.48.55:801][ 74]LogStats:                SubmitErrorReport -  0.000 s
+[2022.06.27-15.49.01:387][ 74]LogStats:                    SendNewReport -  5.587 s
+[2022.06.27-15.49.01:387][ 74]LogStats:             FDebug::EnsureFailed - 27.965 s
+[2022.06.27-15.49.03:417][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.27-15.49.05:406][ 74]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002473s (38.285524s overbudget)
+[2022.06.27-15.49.06:924][ 74]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22172
+[2022.06.27-15.49.06:924][ 74]LogViewport: Scene viewport resized to 308x244, mode Windowed.
+[2022.06.27-15.49.08:704][ 75]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{b99f7b7b-0401-4a1b-a757-2cbdf40bdbae}, Name=ヘッドセット (COTSUBU_ASMR Hands-Free AG Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=20.15
+[2022.06.27-15.49.08:710][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.27-15.49.08:744][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.27-15.49.08:744][ 75]LogSlate: Took 0.014265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.27-15.49.18:019][129]LogSlate: Window 'NewAABAnimBlueprint' being destroyed
+[2022.06.27-15.49.18:052][129]LogSlate: Window 'NewAABAnimBlueprint' being destroyed
+[2022.06.27-15.49.21:868][129]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.49.21:868][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.49.24:514][129]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.49.24:514][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.49.25:342][129]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.49.25:342][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.49.43:388][528]LogContentBrowser: Attempting asset rename: NewAABAnimBlueprint -> BA_Mannequin
+[2022.06.27-15.49.43:908][528]LogMetaData: Removing '/Game/_Game/Animation/BA_Mannequin.BA_Mannequin:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/_Game/Animation/NewAABAnimBlueprint.PackageMetaData'
+[2022.06.27-15.49.43:909][528]LogMetaData: Removing '/Game/_Game/Animation/BA_Mannequin.SKEL_BA_Mannequin_C:AnimGraph' ref from Metadata '/Game/_Game/Animation/NewAABAnimBlueprint.PackageMetaData'
+[2022.06.27-15.49.43:909][528]LogMetaData: Removing '/Game/_Game/Animation/BA_Mannequin.SKEL_BA_Mannequin_C' ref from Metadata '/Game/_Game/Animation/NewAABAnimBlueprint.PackageMetaData'
+[2022.06.27-15.49.43:909][528]LogMetaData: Removing '/Game/_Game/Animation/BA_Mannequin.BA_Mannequin_C:AnimGraph' ref from Metadata '/Game/_Game/Animation/NewAABAnimBlueprint.PackageMetaData'
+[2022.06.27-15.49.43:909][528]LogMetaData: Removing '/Game/_Game/Animation/BA_Mannequin.BA_Mannequin_C' ref from Metadata '/Game/_Game/Animation/NewAABAnimBlueprint.PackageMetaData'
+[2022.06.27-15.49.43:909][528]LogMetaData: Removing '/Game/_Game/Animation/BA_Mannequin.BA_Mannequin:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Game/Animation/NewAABAnimBlueprint.PackageMetaData'
+[2022.06.27-15.49.43:909][528]LogMetaData: Removing '/Game/_Game/Animation/BA_Mannequin.BA_Mannequin:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/_Game/Animation/NewAABAnimBlueprint.PackageMetaData'
+[2022.06.27-15.49.44:040][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Game/Animation/BA_Mannequin" FILE="../../../../../../ue4_project/Hishi2022FirstTerm/Hishi2022FirstTerm/Content/_Game/Animation/BA_Mannequin.uasset" SILENT=true
+[2022.06.27-15.49.44:122][528]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.016582 seconds
+[2022.06.27-15.49.44:298][528]LogSavePackage: Moving output files for package: /Game/_Game/Animation/BA_Mannequin
+[2022.06.27-15.49.44:299][528]LogSavePackage: Moving '../../../../../../ue4_project/Hishi2022FirstTerm/Hishi2022FirstTerm/Saved/BA_Mannequin840DEF0B4293C80AAE26BBAFDF1279E7.tmp' to '../../../../../../ue4_project/Hishi2022FirstTerm/Hishi2022FirstTerm/Content/_Game/Animation/BA_Mannequin.uasset'
+[2022.06.27-15.49.44:682][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.06.27-15.49.44:721][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.06.27-15.49.44:747][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.27-15.49.44:774][528]AssetCheck: New page: アセット保存：BA_Mannequin
+[2022.06.27-15.49.44:789][528]LogContentValidation: Display: AnimBlueprint /Game/_Game/Animation/BA_Mannequin.BA_Mannequin を検証しています
+[2022.06.27-15.49.52:795][610]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/_Game/Animation/BA_Mannequin.BA_Mannequin
+[2022.06.27-15.49.52:796][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.27-15.49.52:802][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.27-15.49.53:332][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.27-15.49.53:457][610]LogViewport: Scene viewport resized to 308x244, mode Windowed.
+[2022.06.27-15.49.55:067][692]LogViewport: Scene viewport resized to 307x255, mode Windowed.
+[2022.06.27-15.49.55:150][694]LogViewport: Scene viewport resized to 203x139, mode Windowed.
+[2022.06.27-15.49.55:184][695]LogViewport: Scene viewport resized to 195x129, mode Windowed.
+[2022.06.27-15.49.55:607][741]LogViewport: Scene viewport resized to 234x430, mode Windowed.
+[2022.06.27-15.49.55:927][778]LogSlate: Window 'BA_Mannequin' being destroyed
+[2022.06.27-15.50.04:957][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Game/Animation/BA_Mannequin" FILE="../../../../../../ue4_project/Hishi2022FirstTerm/Hishi2022FirstTerm/Content/_Game/Animation/BA_Mannequin.uasset" SILENT=true
+[2022.06.27-15.50.04:964][801]LogSavePackage: Moving output files for package: /Game/_Game/Animation/BA_Mannequin
+[2022.06.27-15.50.04:965][801]LogSavePackage: Moving '../../../../../../ue4_project/Hishi2022FirstTerm/Hishi2022FirstTerm/Saved/BA_Mannequin45B6B8224DE3409A7454BD873C845A9F.tmp' to '../../../../../../ue4_project/Hishi2022FirstTerm/Hishi2022FirstTerm/Content/_Game/Animation/BA_Mannequin.uasset'
+[2022.06.27-15.50.04:993][801]AssetCheck: New page: アセット保存：BA_Mannequin
+[2022.06.27-15.50.04:993][801]LogContentValidation: Display: AnimBlueprint /Game/_Game/Animation/BA_Mannequin.BA_Mannequin を検証しています
+[2022.06.27-15.50.22:611][111]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.50.22:612][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.50.22:617][111]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.50.22:617][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.50.22:673][111]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-15.50.22:673][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-15.50.24:301][245]LogSlateStyle: Warning: スレートウィジェットスタイル 'Window.Buttons.Close' が見つかりません。代わりに FButtonStyle をデフォルトに使用します。
+[2022.06.27-15.50.24:301][245]LogSlateStyle: Warning: スレートウィジェットスタイル 'Window.Buttons.Close' が見つかりません。代わりに FButtonStyle をデフォルトに使用します。
+[2022.06.27-15.50.24:694][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.06.27-15.50.25:850][269]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.27-15.50.26:179][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.06.27-15.50.26:209][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.06.27-15.50.26:232][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
